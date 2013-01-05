@@ -1,2 +1,0 @@
-utahbigdata.github.com
-======================
